@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dattatraya Samal</h1>
 <h3 align="left">I am a passionate and results-driven Full Stack Web Development skilled in JavaScript and MERN stack. Proven ability to create efficient web applications using React.js, Node.js, and MongoDB. Strong problem-solving and collaboration skills.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/dattatraya-samal-676531217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,7 +12,7 @@
 </p>
 
 
-<h3>Languages:</h3>
+<h3>Languages</h3>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h3>Frameworks & Tools:</h3>
+<h3>Frameworks & Tools</h3>
 <p>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
@@ -76,7 +76,7 @@
   <li> Optimized application performance by managing API calls efficiently, minimizing unnecessary state updates and re-renders.</li>
 </ul>
 
-<h3 style="color: #007bff;">🔮 Future Goals:</h3>
+<h3 style="color: #007bff;">🔮 Future Goals</h3>
 <ul>
   <li> Enhance expertise in full-stack web development by mastering advanced React.js, Node.js, and database optimization techniques.</li>
   <li> Explore real-time web applications further by improving skills in WebSockets, Socket.IO, and GraphQL for efficient communication.</li>
@@ -85,7 +85,7 @@
   <li> Share knowledge through blogs, tutorials, and mentorship to help aspiring developers learn MERN stack and modern web development techniques.</li>
 </ul>
 
-<h3 style="color: #007bff;">📜 Professional Summary:</h3>
+<h3 style="color: #007bff;">📜 Professional Summary</h3>
         <ul>
             <li> Skilled in JavaScript, React.js, Node.js, and MongoDB.</li>
             <li> Proficient in building responsive and optimized web apps.</li>
