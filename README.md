@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/dattatraya-samal-676531217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://musical-chaja-8e6800.netlify.app/" target="_blank">
+  <a href="https://dulcet-queijadas-848a99.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
