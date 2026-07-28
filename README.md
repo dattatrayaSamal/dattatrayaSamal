@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/dattatraya-samal-676531217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://astonishing-shortbread-40fc94.netlify.app/" target="_blank">
+  <a href="https://coruscating-piroshki-412faf.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -76,14 +76,14 @@
   <li> Optimized application performance by managing API calls efficiently, minimizing unnecessary state updates and re-renders.</li>
 </ul>
 
-3️⃣ Click-Up Task Board:
+3️⃣ Click-Up:
 <ul>
   <li>Developed a Trello-style drag-and-drop task management board with 4 columns using native HTML5 Drag and Drop API for seamless task movement.</li>
   <li>Implemented features including priority tagging, real-time search/filter, task creation modal, and localStorage data persistence.</li>
   <li>Designed a responsive UI with visual feedback on drag operations, color-coded priority indicators, and dynamic tag system using React and Tailwind CSS.</li>
 </ul>
 
-4️⃣ Expense Tracker Dashboard:
+4️⃣ Expense Tracker:
 <ul>
   <li>Designed and implemented a full-featured expense tracker with interactive Pie and Bar charts using Recharts for data visualization.</li>
   <li>Integrated CRUD operations with localStorage persistence, search/filter/sort functionality, and form validation for seamless transaction management.</li>
