@@ -76,6 +76,20 @@
   <li> Optimized application performance by managing API calls efficiently, minimizing unnecessary state updates and re-renders.</li>
 </ul>
 
+3️⃣ Click-Up Task Board:
+<ul>
+  <li>Developed a Trello-style drag-and-drop task management board with 4 columns using native HTML5 Drag and Drop API for seamless task movement.</li>
+  <li>Implemented features including priority tagging, real-time search/filter, task creation modal, and localStorage data persistence.</li>
+  <li>Designed a responsive UI with visual feedback on drag operations, color-coded priority indicators, and dynamic tag system using React and Tailwind CSS.</li>
+</ul>
+
+4️⃣ Expense Tracker Dashboard:
+<ul>
+  <li>Designed and implemented a full-featured expense tracker with interactive Pie and Bar charts using Recharts for data visualization.</li>
+  <li>Integrated CRUD operations with localStorage persistence, search/filter/sort functionality, and form validation for seamless transaction management.</li>
+  <li>Developed a responsive dashboard with real-time balance calculation, category breakdown, and income vs expense analytics using React and Tailwind CSS.</li>
+</ul>
+
 <h3 style="color: #007bff;">🔮 Future Goals</h3>
 <ul>
   <li> Enhance expertise in full-stack web development by mastering advanced React.js, Node.js, and database optimization techniques.</li>
